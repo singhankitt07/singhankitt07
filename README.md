@@ -2,12 +2,12 @@
 <h3 align="center">Operations Specialist at Concentrix | Full-Stack Development & Data Analytics</h3>
 
 <p align="center">
-  I enjoy learning through building practical projects. I'm currently working on
-  <a href="https://github.com/singhankitt07/Donor-mate"><strong>Donor Mate</strong></a>,
-  a platform connecting people who need blood with willing donors and care organizations.
+  I enjoy learning through building practical projects, including
+  <a href="https://github.com/singhankitt07/Donor-mate"><strong>Donor Mate</strong></a>
+  and <a href="https://github.com/singhankitt07/genzyways-news"><strong>GenzyWays News</strong></a>.
 </p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [Donor Mate](https://github.com/singhankitt07/Donor-mate)
 
@@ -16,6 +16,14 @@ An India-focused blood donation platform, built to help people find donors and c
 - 🌐 [Visit the live website](https://donor-mate-web.vercel.app)
 - 🩸 Includes donor search, blood requests, in-app notifications, and community chat.
 - 🔒 Built with privacy-conscious donor matching and PostgreSQL-backed data.
+
+### [GenzyWays News](https://github.com/singhankitt07/genzyways-news)
+
+A modern, multilingual digital newsroom covering current affairs, technology, AI, business, culture, and more.
+
+- 🌐 [Visit the live website](https://genzyway-news-alpha-seven.vercel.app)
+- 📰 Supports English and Hindi editions, reader accounts, and editorial publishing workflows.
+- 🛠️ Built with **Next.js**, **TypeScript**, **PostgreSQL**, and **Prisma**.
 
 ## 💻 Languages and Tools
 
