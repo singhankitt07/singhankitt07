@@ -45,6 +45,17 @@ A modern, multilingual digital newsroom covering current affairs, technology, AI
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=singhankitt07&show_icons=true&theme=tokyonight" alt="Ankit's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhankitt07&layout=compact&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=singhankitt07&theme=tokyonight" alt="GitHub contribution streak" />
+</p>
+
 ---
 
 <p align="center">
