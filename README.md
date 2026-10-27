@@ -1,29 +1,45 @@
 <h1 align="center">Hi, I'm Ankit Singh 👋</h1>
-
 <h3 align="center">Operations Specialist at Concentrix | Full-Stack Development & Data Analytics</h3>
 
-### About me
+<p align="center">
+  I enjoy learning through building practical projects. I'm currently working on
+  <a href="https://github.com/singhankitt07/Donor-mate"><strong>Donor Mate</strong></a>,
+  a platform connecting people who need blood with willing donors and care organizations.
+</p>
 
-- I work as an Operations Specialist at Concentrix.
-- I enjoy building useful projects and exploring data analytics.
+## 🚀 Featured Project
 
-### Featured project
+### [Donor Mate](https://github.com/singhankitt07/Donor-mate)
 
-#### [Donor Mate](https://github.com/singhankitt07/Donor-mate)
+An India-focused blood donation platform, built to help people find donors and coordinate blood requests.
 
-An India-focused blood donation platform that connects people who need blood with willing donors and care organizations.
+- 🌐 [Visit the live website](https://donor-mate-web.vercel.app)
+- 🩸 Includes donor search, blood requests, in-app notifications, and community chat.
+- 🔒 Built with privacy-conscious donor matching and PostgreSQL-backed data.
 
-- [Open the Donor Mate website](https://donor-mate-web.vercel.app)
-- Built with **Next.js**, **React**, **TypeScript**, **JavaScript**, **Node.js**, **Express**, and **Neon PostgreSQL**.
+## 💻 Languages and Tools
 
-### [singhankitt07](https://github.com/singhankitt07/singhankitt07)
+### Languages used in Donor Mate
 
-#### Languages used in Donor Mate
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+</p>
 
-**JavaScript · TypeScript · CSS**
+### Technologies
 
-JavaScript is the primary language GitHub identifies for the project. The website also uses TypeScript for its Next.js interface.
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-#### Tools and technologies
+---
 
-**Next.js · React · Node.js · Express · PostgreSQL**
+<p align="center">
+  <a href="https://github.com/singhankitt07">GitHub</a> ·
+  <a href="https://github.com/singhankitt07/Donor-mate">Donor Mate</a>
+</p>
