@@ -1,5 +1,17 @@
 <h1 align="center"> Hi👋, I'm Ankit Singh</h1>
-<h3>* Final year student at Dayananda Sagar University. <br>* I'm Passionate in Data Analytics and Full Stack Development. <br>* I love building projects that make an impact! Check out my repositories.</h3>
+<h3>
+  Operations Specialist at Concentrix.<br>
+  Passionate about data analytics and full-stack development.<br>
+  I enjoy building projects that make a positive impact.
+</h3>
+
+<h3 align="left">Featured Project:</h3>
+
+<p>
+  <strong><a href="https://github.com/singhankitt07/Donor-mate">Donor Mate</a></strong> —
+  an India-focused blood donation platform connecting people who need blood with willing donors and care organizations.
+  Built with Next.js, TypeScript, Node.js, Express, and Neon PostgreSQL.
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhankitt07" alt="singhankitt07" /></a> </p>
 
