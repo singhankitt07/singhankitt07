@@ -27,7 +27,10 @@ A modern, multilingual digital newsroom covering current affairs, technology, AI
 
 ## 💻 Languages and Tools
 
-### Languages used in Donor Mate
+### Languages used in my featured projects
+
+- **Donor Mate:** JavaScript, TypeScript, CSS
+- **GenzyWays News:** TypeScript, JavaScript, CSS
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -46,6 +49,8 @@ A modern, multilingual digital newsroom covering current affairs, technology, AI
 </p>
 
 ## 📊 GitHub Stats
+
+The language card below reflects code in public repositories; it is separate from the featured-project languages listed above.
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=singhankitt07&show_icons=true&theme=tokyonight" alt="Ankit's GitHub stats" />
